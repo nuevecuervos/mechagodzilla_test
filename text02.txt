@@ -1,1 +1,7 @@
 TEST TEST MESS
+
+git commit --amend --edit
+ SEND HALPS
+
+wow such winter
+ much soon
